@@ -17,3 +17,4 @@ class Solution {
 
 var solution = Solution().twoSum([3,3], 6)
 print(solution)
+
